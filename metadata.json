@@ -1,0 +1,6 @@
+{
+  "name": "bmad1ProjectZipperAI",
+  "description": "Un'applicazione web avanzata che utilizza l'API Gemini per analizzare testo strutturato, file multipli o archivi ZIP per generare una struttura di progetto completa. Gli utenti possono modificare, aggiungere o rimuovere file in modo interattivo prima di scaricare l'archivio .zip finale e personalizzato.\n\n\nCon metodo BMAD e chat vocale!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
