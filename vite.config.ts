@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
       // 🚨 AGGIUNTO: Percorso base richiesto per il deployment su GitHub Pages
-      base: '/projectzipperai/',
+      base: '/bmad1projectzipperai/',
       server: {
         port: 3000,
         host: '0.0.0.0',
